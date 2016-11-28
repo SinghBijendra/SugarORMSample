@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SugarORM Sample</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="title">Title</string>
+    <string name="edition">Edition</string>
+    <string name="choose_operation">Choose Operation</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="writer">Writer</string>
+</resources>

@@ -1,0 +1,1 @@
+alter table BOOK add  WRITER TEXT;
